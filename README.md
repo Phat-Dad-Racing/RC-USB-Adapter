@@ -59,7 +59,7 @@ Plug the adapter into the RC receiver
     connect to the signal pins on the receiver. Likewise, there is no
     issue in leaving unused wires unplugged.
 
-Windows 10
+Windows 10 & 11
 ----------
 
 -   Turn on transmitter, then plug adapter into PC. The receiver
